@@ -6,6 +6,7 @@
   
 2. [isValidIp](https://github.com/mustafaerbay/usefull-shell-functions/blob/master/common/isValidIp.sh)
 3. [spin_wait](https://github.com/mustafaerbay/usefull-shell-functions/blob/master/common/spinWait.sh)
+4. [checkPasswordComplexity](https://github.com/mustafaerbay/usefull-shell-functions/blob/master/common/checkPasswordComplexity.sh)
 
 
 
