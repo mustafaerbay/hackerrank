@@ -1,4 +1,4 @@
-# usefull-shell-functions
+# Shell Functions
 
 1. [echo_ok / echo_nok](https://github.com/mustafaerbay/usefull-shell-functions/blob/master/common/ok_nok.sh)
   
@@ -11,6 +11,8 @@
         check_pass_complexity "e" "helloo1234" "login password"
         
         [Error_check login password]  This password can not contain the 'e' character, please check.
+        
+ ## HackerRank Tests
 
 
 
