@@ -1,3 +1,6 @@
+###
+https://www.hackerrank.com/challenges/awk-2/problem?isFullScreen=true
+###
 # Input:
 # A 25 27 50
 # B 35 37 75
