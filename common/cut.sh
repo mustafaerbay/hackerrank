@@ -32,3 +32,6 @@ A B C
 A B C
 
 cut -f -3
+
+# print from 13th character to the end
+cut -c 13- 
