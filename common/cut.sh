@@ -33,5 +33,16 @@ A B C
 
 cut -f -3
 
-# print from 13th character to the end
+# Cut #6 
+#print from 13th character to the end
 cut -c 13- 
+
+# Cut #7
+# Given a sentence, identify and display its fourth word. Assume that the space (' ') is the only delimiter between words.
+cut -d " " -f 4
+
+# Cut #8
+cut -d " " -f -3
+
+# Cut #9
+cut -f 2-
